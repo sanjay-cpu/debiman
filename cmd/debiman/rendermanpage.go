@@ -15,11 +15,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Debian/debiman/internal/bundled"
-	"github.com/Debian/debiman/internal/commontmpl"
-	"github.com/Debian/debiman/internal/convert"
-	"github.com/Debian/debiman/internal/manpage"
-	"github.com/Debian/debiman/internal/write"
+	"github.com/sanjay-cpu/debiman/internal/bundled"
+	"github.com/sanjay-cpu/debiman/internal/commontmpl"
+	"github.com/sanjay-cpu/debiman/internal/convert"
+	"github.com/sanjay-cpu/debiman/internal/manpage"
+	"github.com/sanjay-cpu/debiman/internal/write"
 	"golang.org/x/text/language"
 )
 

@@ -18,11 +18,11 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Debian/debiman/internal/commontmpl"
-	"github.com/Debian/debiman/internal/convert"
-	"github.com/Debian/debiman/internal/manpage"
-	"github.com/Debian/debiman/internal/sitemap"
-	"github.com/Debian/debiman/internal/write"
+	"github.com/sanjay-cpu/debiman/internal/commontmpl"
+	"github.com/sanjay-cpu/debiman/internal/convert"
+	"github.com/sanjay-cpu/debiman/internal/manpage"
+	"github.com/sanjay-cpu/debiman/internal/sitemap"
+	"github.com/sanjay-cpu/debiman/internal/write"
 	"golang.org/x/net/context"
 	"golang.org/x/sync/errgroup"
 )

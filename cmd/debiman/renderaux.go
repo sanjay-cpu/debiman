@@ -8,9 +8,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/Debian/debiman/internal/bundled"
-	"github.com/Debian/debiman/internal/manpage"
-	"github.com/Debian/debiman/internal/write"
+	"github.com/sanjay-cpu/debiman/internal/bundled"
+	"github.com/sanjay-cpu/debiman/internal/manpage"
+	"github.com/sanjay-cpu/debiman/internal/write"
 )
 
 var indexTmpl = mustParseIndexTmpl()

@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Debian/debiman/internal/convert"
-	"github.com/Debian/debiman/internal/manpage"
+	"github.com/sanjay-cpu/debiman/internal/convert"
+	"github.com/sanjay-cpu/debiman/internal/manpage"
 )
 
 func TestReuse(t *testing.T) {

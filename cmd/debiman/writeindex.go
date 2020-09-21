@@ -4,8 +4,8 @@ import (
 	"io"
 	"sync/atomic"
 
-	pb "github.com/Debian/debiman/internal/proto"
-	"github.com/Debian/debiman/internal/write"
+	pb "github.com/sanjay-cpu/debiman/internal/proto"
+	"github.com/sanjay-cpu/debiman/internal/write"
 	"github.com/golang/protobuf/proto"
 )
 
